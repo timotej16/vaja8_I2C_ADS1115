@@ -16,3 +16,7 @@ f) f)	V zavihku Configuration za I2C spremenite hitrost na 400 kHz. Kaj ste izbr
 c)	Pretvorite binarni naslov 1001000 v šastnajstiškega: __48__ HEX. 
 
 
+KOMENTAR:
+Najprej nama ni hotelo izpisovati vrednosti iz potenciometra v STM studiu, ampak sva težavo na koncu odpravila, 
+vednar ga je občasno se kdaj zmedlo in ni delovalo čisto popolno.
+
